@@ -3,10 +3,17 @@ body {
     text-align: left-align;
 }
 
-.header {
-    padding: 60px;
+.header-image {
+    background-image: url("images/sunriseLakeLouise.jpeg");
+    height: 400px;
+    background-position:center;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+}
+
+.header-text {
     text-align: center;
-    background: purple;
-    color: white;
-    font-size: 30px;
+    font-style: italic; 
+    color: whitesmoke;
 }
