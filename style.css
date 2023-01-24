@@ -17,3 +17,9 @@ body {
     font-style: italic; 
     color: whitesmoke;
 }
+
+.footer {
+    background-color: rebeccapurple;
+    text-align: center;
+    padding: 5px;
+}
